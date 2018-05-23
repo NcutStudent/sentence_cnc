@@ -1,0 +1,22 @@
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG
+今天 幫 我 做 工件一 共 NUMBERFLAG 件
+今天 幫 我 做 工件二 共 NUMBERFLAG 件
+今天 幫 我 做 工件三 共 NUMBERFLAG 件
+幫 我 做 工件一 共 NUMBERFLAG 件
+幫 我 做 工件二 共 NUMBERFLAG 件
+幫 我 做 工件三 共 NUMBERFLAG 件
+請 機械手臂 順時針 繞 X軸 旋轉 NUMBERFLAG 度
+請 機械手臂 逆時針 繞 X軸 旋轉 NUMBERFLAG 度
+請 機械手臂 順時針 繞 Y軸 旋轉 NUMBERFLAG 度
+請 機械手臂 逆時針 繞 Y軸 旋轉 NUMBERFLAG 度
+請 機械手臂 順時針 繞 Z軸 旋轉 NUMBERFLAG 度
+請 機械手臂 逆時針 繞 Z軸 旋轉 NUMBERFLAG 度
+機械手臂 順時針 繞 X軸 旋轉 NUMBERFLAG 度
+機械手臂 逆時針 繞 X軸 旋轉 NUMBERFLAG 度
+機械手臂 順時針 繞 Y軸 旋轉 NUMBERFLAG 度
+機械手臂 逆時針 繞 Y軸 旋轉 NUMBERFLAG 度
+機械手臂 順時針 繞 Z軸 旋轉 NUMBERFLAG 度
+機械手臂 逆時針 繞 Z軸 旋轉 NUMBERFLAG 度
+今天 請 幫 我 做 工件一 共 NUMBERFLAG 件
+今天 請 幫 我 做 工件二 共 NUMBERFLAG 件
+今天 請 幫 我 做 工件三 共 NUMBERFLAG 件

@@ -1,0 +1,103 @@
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件一 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件二 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+今天 幫 我 做 工件三 共 NUMBERFLAG 件 
+告訴 我 目前 機台 加工 進度 狀況 
+請 幫 我 檢驗 目前 刀具 的 切削 狀況 
+告訴 我 今天 有多少 刀具 磨損 嚴重 需要 更換 
+告訴 我 今天 機台 的 狀況 如何 
+告訴 我 目前 加工品 還 需要 多久 時間 
+告訴 我 目前 機台 使用到 的 刀具 
+告訴 我 今天 工件一 目前 進度 
+告訴 我 今天 工件二 目前 進度 
+告訴 我 今天 工件三 目前 進度 
+請 機器 手臂 將 NUMBERFLAG 號刀 換成 NUMBERFLAG 號的 端銑刀 
+請 機器 手臂 將 NUMBERFLAG 號刀 換成 刀徑 NUMBERFLAG 公釐 刀長 NUMBERFLAG 公釐 的 端銑刀 
+請 幫 我 確認 刀具 的 狀況 
+請 幫 我 量測 目前 刀具 的 刀長 
+請 幫 我 量測 目前 刀具 的 刀徑 
+請 幫 我 量測 所有 刀具 的 刀長 和 刀徑 
+請 幫 我 確認 目前 誤差 
+請將 模式 轉換到 自動 操作 
+請將 模式 轉換到 手動 操作 
+請將 模式 轉換到 語音 操作 
+請 從 自動 操作 模式 轉換到 手動 操作 
+請 從 自動 操作 模式 轉換到 語音 操作 
+請 從 手動 操作 模式 轉換到 語音 操作 
+請 從 手動 操作 模式 轉換到 自動 操作 
+請 從 語音 操作 模式 轉換到 自動 操作 
+請 從 語音 操作 模式 轉換到 手動 操作 
+轉換到 手動 操作 
+轉換到 語音 操作 
+轉換到 自動 操作 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+將 機械手臂 移動速度 調整 到 等級 NUMBERFLAG 
+請將 所有 動作 緊急 停止 
+請 解除 所有 動作 緊急 停止 
+請 機械手臂 往正 X軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往負 X軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往正 Y軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往負 Y軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往正 Z軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往負 Z軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 順時針 繞 X軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 順時針 繞 X軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 順時針 繞 X軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 X軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 X軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 X軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 順時針 繞 Y軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 順時針 繞 Y軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 順時針 繞 Y軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 Y軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 Y軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 Y軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 順時針 繞 Z軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 順時針 繞 Z軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 順時針 繞 Z軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 Z軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 Z軸 旋轉 NUMBERFLAG 度 
+請 機械手臂 逆時針 繞 Z軸 旋轉 NUMBERFLAG 度 
+幫 我 讀取 機器 目前 的 位置 
+幫 我 顯示 機器 目前 的 位置 
+告訴 我 目前 機器 的 位置 
+請 顯示出 目前 的 錯誤 訊息 
+請 幫 我 清除 目前 的 錯誤 
+請 幫 我 排除 目前 的 錯誤 
+將 系統 重置 
+請 回復到 上一個 指令 位置 
+
