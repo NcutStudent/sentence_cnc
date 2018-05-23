@@ -7,9 +7,9 @@ label_data_file     = 'data/sentence_answer.txt'
 log_file            = 'log/rnn_training_v25'
 save_file_name      = 'model/rnn_training_v25'
 
-
-cnn_fitters_list = []
-cnn_kernal_list  = []
+                        #[ (fitter_size, kernal_size)] 
+cnn_fitter_kernal_size = [ (5, 3) ]
+fc_layer_size          = [ 20 ]
 
 learning_rate = 1e-3
 embedding_dim = 128
@@ -32,7 +32,7 @@ with tf.device('/cpu:0'):
     embedding = tf.get_variable('embedding', [vocab_size, embedding_dim])
     embedding_inputs = tf.nn.embedding_lookup(embedding, input_x)
 
-cnn_model = make_cnn_model(embedding_inputs)
+cnn_model = make_cnn_model(embedding_inputs, cnn_fitter_kernal_size, fc_layer_size)
 
 pred_vec      = tf.layers.dense(cnn_model, seq_length, name='pred_vector')
 adverb_vec    = tf.layers.dense(cnn_model, seq_length, name='pred_adverb_vector')

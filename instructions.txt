@@ -1,5 +1,7 @@
 from cnn_model import *
-source_data, processed_data = helper.string_to_input_data(["今天幫我做工件三共12件"], pad_sequence_length=12)
+source_data, processed_data = helper.string_to_input_data(
+	["今天幫我做工件三共12件", "請將機械手臂移動速度調整到等級12", "機械手臂順時針繞Y軸旋轉42度"], 
+	pad_sequence_length=12)
 
 out_data = sess.run([pred_class, adverb_class, object_class, number_class], { input_x : processed_data })
 for i in range(len(out_data[0])):
@@ -12,3 +14,8 @@ loss_out, opt_out = sess.run([loss, opt], { input_x : train_data, input_y: label
 
 train_data, label_data = helper.get_data(10, pad_sequence_length=seq_length)
 sess.run([object_y], { input_x : train_data, input_y: label_data })
+
+for i in range(1000):
+    train_data, label_data = helper.get_data(100, pad_sequence_length=seq_length)
+    loss_out, opt_out = sess.run([global_loss, opt], { input_x : train_data, input_y: label_data })
+    print(loss_out)
