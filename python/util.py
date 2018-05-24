@@ -47,3 +47,22 @@ def process_string_with_jieba(string, with_number=False):
     if not with_number:
         arr = re.sub("[\d]+", "NUMBERFLAG", arr)
     return jieba.cut(arr)
+
+def get_output_string(out_data, source_data, default_sub="None", default_adv="None", default_obj="None", default_num="None"):
+    for i in range(len(out_data[0])):
+        if len(source_data[i]) <= out_data[0][i]:
+            print(default_sub + " ", end='')
+        else:
+            print(source_data[i][out_data[0][i]] + " ", end='')
+        if len(source_data[i]) <= out_data[1][i]:
+            print(default_adv + " ", end='')
+        else:
+            print(source_data[i][out_data[1][i]] + " ", end='')
+        if len(source_data[i]) <= out_data[2][i]:
+            print(default_obj + " ", end='')
+        else:
+            print(source_data[i][out_data[2][i]] + " ", end='')
+        if len(source_data[i]) <= out_data[3][i]:
+            print(default_num)
+        else:
+            print(source_data[i][out_data[3][i]] + " ")
