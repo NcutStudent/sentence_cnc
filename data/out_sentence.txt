@@ -5,7 +5,6 @@
 告訴 我 目前 加工品 還 需要 多久 時間 
 告訴 我 目前 機台 使用到 的 刀具 
 請 機器 手臂 將 NUMBERFLAG 號刀 換成 NUMBERFLAG 號的 端銑刀 
-請 機器 手臂 將 NUMBERFLAG 號刀 換成 刀徑 NUMBERFLAG 公釐 刀長 NUMBERFLAG 公釐 的 端銑刀 
 請 幫 我 確認 刀具 的 狀況 
 請 幫 我 量測 目前 刀具 的 刀長 
 請 幫 我 量測 目前 刀具 的 刀徑 

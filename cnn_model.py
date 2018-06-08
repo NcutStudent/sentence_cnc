@@ -57,18 +57,19 @@ number_rate   = make_acc_rate(number_class, number_y, name='number_loss')
 
 global_loss   = loss + adverb_loss + object_loss + number_loss
 
-opt      = tf.train.AdamOptimizer(learning_rate=learning_rate).minimize(global_loss, name='optimizer')
+opt           = tf.train.AdamOptimizer(learning_rate=learning_rate).minimize(global_loss, name='optimizer')
 
 global_step   = tf.train.get_or_create_global_step()
+
 increment_global_step = tf.assign(global_step, global_step + 1)
 
-init = tf.initialize_all_variables()
+init = tf.global_variables_initializer()
 sess = tf.Session()
 #with tf.Session() as sess:
 
 sess.run(init)
 
-def train_model(iter_size=1000, batch_size=50, show_step=10, test_step=100):
+def train_model(iter_size=1000, batch_size=1, show_step=10, test_step=100):
     for i in range(iter_size):
         train_data, label_data = helper.get_data(batch_size, pad_sequence_length=seq_length)
         out = sess.run([global_loss, acc_rate, adverb_rate, object_rate, number_rate, increment_global_step, opt], { input_x : train_data, input_y: label_data, dropout_prob : 0.5})
