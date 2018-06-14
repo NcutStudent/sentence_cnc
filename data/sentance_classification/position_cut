@@ -1,0 +1,47 @@
+X軸 移動 NUMBERFLAG 
+Y軸 移動 NUMBERFLAG 
+Z軸 移動 NUMBERFLAG 
+把 X軸 移動 NUMBERFLAG 
+把 Y軸 移動 NUMBERFLAG 
+把 Z軸 移動 NUMBERFLAG 
+將 X軸 移動 NUMBERFLAG 
+將 Y軸 移動 NUMBERFLAG 
+將 Z軸 移動 NUMBERFLAG 
+X軸 往前 移動 NUMBERFLAG 
+Y軸 往前 移動 NUMBERFLAG 
+Z軸 往前 移動 NUMBERFLAG 
+X軸 往後移動 NUMBERFLAG 
+Y軸 往後移動 NUMBERFLAG 
+Z軸 往後移動 NUMBERFLAG 
+請 主軸 回歸 到 原點 
+主軸 回歸 到 原點 
+回到 機械 原點 
+主軸 回到 機械 原點 
+請 主軸 回歸 到 初始點 
+主軸 回歸 到 初始點 
+請 機械手臂 往正 X軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往負 X軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往正 Y軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往負 Y軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往正 Z軸 移動 NUMBERFLAG 毫米 
+請 機械手臂 往負 Z軸 移動 NUMBERFLAG 毫米 
+機械手臂 往正 X軸 移動 NUMBERFLAG 毫米 
+機械手臂 往負 X軸 移動 NUMBERFLAG 毫米 
+機械手臂 往正 Y軸 移動 NUMBERFLAG 毫米 
+機械手臂 往負 Y軸 移動 NUMBERFLAG 毫米 
+機械手臂 往正 Z軸 移動 NUMBERFLAG 毫米 
+機械手臂 往負 Z軸 移動 NUMBERFLAG 毫米 
+往正 X軸 移動 NUMBERFLAG 毫米 
+往負 X軸 移動 NUMBERFLAG 毫米 
+往正 Y軸 移動 NUMBERFLAG 毫米 
+往負 Y軸 移動 NUMBERFLAG 毫米 
+往正 Z軸 移動 NUMBERFLAG 毫米 
+往負 Z軸 移動 NUMBERFLAG 毫米 
+請 回復 到 上一個 指令 位置 
+回復 到 上一個 指令 位置 
+請 返回 到 上一個 指令 位置 
+返回 到 上一個 指令 位置 
+請 移動 到 指定 的 絕對 位置 
+移動 到 指定 的 絕對 位置 
+請 移動 到 指定 的 相 對 位置 
+移動 到 指定 的 相 對 位置 

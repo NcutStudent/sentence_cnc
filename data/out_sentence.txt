@@ -1,28 +1,382 @@
-告訴 我 目前 機台 加工 進度 狀況 
-請 幫 我 檢驗 目前 刀具 的 切削 狀況 
-告訴 我 今天 有多少 刀具 磨損 嚴重 需要 更換 
-告訴 我 今天 機台 的 狀況 如何 
-告訴 我 目前 加工品 還 需要 多久 時間 
-告訴 我 目前 機台 使用到 的 刀具 
-請 機器 手臂 將 NUMBERFLAG 號刀 換成 NUMBERFLAG 號的 端銑刀 
-請 幫 我 確認 刀具 的 狀況 
-請 幫 我 量測 目前 刀具 的 刀長 
-請 幫 我 量測 目前 刀具 的 刀徑 
-請 幫 我 量測 所有 刀具 的 刀長 和 刀徑 
-請 幫 我 確認 目前 誤差
-請將 所有 動作 緊急 停止 
-請 解除 所有 動作 緊急 停止 
-請 機械手臂 往正 X軸 移動 NUMBERFLAG 毫米
-請 機械手臂 往負 X軸 移動 NUMBERFLAG 毫米
-請 機械手臂 往正 Y軸 移動 NUMBERFLAG 毫米
-請 機械手臂 往負 Y軸 移動 NUMBERFLAG 毫米
-請 機械手臂 往正 Z軸 移動 NUMBERFLAG 毫米
-請 機械手臂 往負 Z軸 移動 NUMBERFLAG 毫米
-幫 我 讀取 機器 目前 的 位置
-幫 我 顯示 機器 目前 的 位置
-告訴 我 目前 機器 的 位置
-請 顯示出 目前 的 錯誤 訊息
-請 幫 我 清除 目前 的 錯誤
-請 幫 我 排除 目前 的 錯誤
-將 系統 重置
-請 回復到 上一個 指令 位置
+告訴   我   目前   機台   加工   進度   狀況   
+目前   機台   加工   進度   狀況   
+機台   加工   進度   狀況   
+機台   目前   加工   進度   狀況   
+目前   加工   進度   狀況   
+確認   機台   加工   進度   狀況   
+確認   機台   目前   加工   進度   狀況   
+請   幫 我   檢驗   目前   刀具   的   切削   狀況   
+幫 我   檢驗   目前   刀具   的   切削   狀況   
+檢驗   目前   刀具   的   切削   狀況   
+刀具   的   切削   狀況   
+刀具   目前   的   切削   狀況   
+檢驗   刀具   的   切削   狀況   
+檢驗   刀具   目前   的   切削   狀況   
+告訴   我   今天   有   多少   刀具   磨損   嚴重   需要   更換   
+今天   有   多少   刀具   磨損   嚴重   需要   更換   
+有   多少   刀具   磨損   嚴重   需要   更換   
+確認   今天   有   多少   刀具   磨損   嚴重   需要   更換   
+刀   具有   多少   磨損   嚴重   需要   更換   
+今天   刀   具有   多少   磨損   嚴重   需要   更換   
+確認   今天   刀   具有   多少   磨損   嚴重   需要   更換   
+今天   有   多少   刀具   磨損   嚴重   
+確認   今天   有   多少   刀具   磨損   嚴重   
+確認   有   多少   刀具   磨損   嚴重   
+確認   今天   刀   具有   多少   磨損   嚴重   
+今天   刀   具有   多少   磨損   嚴重   
+確認   刀   具有   多少   磨損   嚴重   
+告訴   我   今天   機台   的   狀況   如何   
+今天   機台   的   狀況   如何   
+機台   今天   的   狀況   如何   
+告訴   我   目前   加工品   還   需要   多久   時間   
+告訴   我   目前   機台   使用   到   的   刀具   
+告訴   我   今天   工件一   進度   狀況   
+告訴   我   今天   工件二   進度   狀況   
+告訴   我   今天   工件三   進度   狀況   
+告訴   我   工件一   目前   進度   狀況   
+告訴   我   工件二   目前   進度   狀況   
+告訴   我   工件三   目前   進度   狀況   
+今天   工件一   進度   狀況   
+今天   工件二   進度   狀況   
+今天   工件三   進度   狀況   
+工件一   目前   進度   狀況   
+工件二   目前   進度   狀況   
+工件三   目前   進度   狀況   
+告訴   我   目前   工件一   進度   狀況   
+告訴   我   目前   工件二   進度   狀況   
+告訴   我   目前   工件三   進度   狀況   
+目前   工件一   進度   狀況   
+目前   工件二   進度   狀況   
+目前   工件三   進度   狀況   
+請   幫 我   確認   刀具   的   狀況   
+幫 我   確認   刀具   的   狀況   
+確認   刀具   的   狀況   
+刀具   目前   的   狀況   
+目前   刀具   的   狀況   
+幫 我   確認   目前   刀具   的   狀況   
+確認   目前   刀具   的   狀況   
+請   幫 我   量測   目前   刀具   的   刀長   
+幫 我   量測   目前   刀具   的   刀長   
+量測   目前   刀具   的   刀長   
+請   幫 我   量測   刀具   目前   的   刀長   
+幫 我   量測   刀具   目前   的   刀長   
+量測   刀具   目前   的   刀長   
+請   幫 我   量測   目前   刀具   的   刀徑   
+幫 我   量測   目前   刀具   的   刀徑   
+量測   目前   刀具   的   刀徑   
+請   幫 我   量測   刀具   目前   的   刀徑   
+幫 我   量測   刀具   目前   的   刀徑   
+量測   刀具   目前   的   刀徑   
+請   幫 我   量測   所有   刀具   的   刀長   和   刀徑   
+幫 我   量測   所有   刀具   的   刀長   和   刀徑   
+量測   所有   刀具   的   刀長   和   刀徑   
+請   幫 我   量測   刀具   的   刀長   和   刀徑   
+幫 我   量測   刀具   的   刀長   和   刀徑   
+量測   刀具   的   刀長   和   刀徑   
+請   幫 我   確認   所有   刀具   的   刀長   和   刀徑   
+幫 我   確認   所有   刀具   的   刀長   和   刀徑   
+確認   所有   刀具   的   刀長   和   刀徑   
+請   幫 我   確認   刀具   的   刀長   和   刀徑   
+幫 我   確認   刀具   的   刀長   和   刀徑   
+確認   刀具   的   刀長   和   刀徑   
+請   幫 我   確認   目前   誤差   
+幫 我   確認   目前   誤差   
+請   顯示   目前   誤差   
+幫 我   讀取   機器   目前   的   位置   
+讀取   機器   目前   的   位置   
+幫 我   讀取   機器   目前   所在 位置   
+讀取   機器   目前   所在 位置   
+幫 我   讀取   目前   機器   的   位置   
+讀取   目前   機器   的   位置   
+幫 我   讀取   目前   機器   所在 位置   
+讀取   目前   機器   所在 位置   
+幫 我   顯示   機器   目前   的   位置   
+顯示   機器   目前   的   位置   
+幫 我   顯示   機器   目前   所在 位置   
+顯示   機器   目前   所在 位置   
+幫 我   顯示   目前   機器   的   位置   
+顯示   目前   機器   的   位置   
+幫 我   顯示   目前   機器   所在 位置   
+顯示   目前   機器   所在 位置   
+告訴   我   目前   機器   的   位置   
+告訴   我   機器   目前   的   位置   
+告訴   我   目前   機器   所在 位置   
+目前   機器   所在 位置   
+告訴   我   機器   目前   所在 位置   
+機器   目前   所在 位置   
+請   顯示   出   目前   的   錯   誤 訊息   
+顯示   出   目前   的   錯   誤 訊息   
+顯示   目前   的   錯   誤 訊息   
+告訴   我   目前   的   錯   誤 訊息   
+請   幫 我   清除   目前   的   錯誤   
+幫 我   清除   目前   的   錯誤   
+請   幫 我   排除   目前   的   錯誤   
+幫 我   排除   目前   的   錯誤   
+請   幫 我   解決   目前   的   錯誤   
+幫 我   解決   目前   的   錯誤   
+請   幫 我   確認   目前   處理   的   程序   任務   
+幫 我   確認   目前   處理   的   程序   任務   
+請   顯示   出   目前   的   靜態 誤差   
+顯示   出   目前   的   靜態 誤差   
+告訴   我   目前   的   靜態 誤差   
+請   顯示   出   目前   的   動態 誤差   
+顯示   出   目前   的   動態 誤差   
+告訴   我   目前   的   動態 誤差   
+請   顯示   出   目前   的   熱 誤差   
+顯示   出   目前   的   熱 誤差   
+告訴   我   目前   的   熱 誤差   
+X軸   移動   NUMBERFLAG   
+Y軸   移動   NUMBERFLAG   
+Z軸   移動   NUMBERFLAG   
+把   X軸   移動   NUMBERFLAG   
+把   Y軸   移動   NUMBERFLAG   
+把   Z軸   移動   NUMBERFLAG   
+將   X軸   移動   NUMBERFLAG   
+將   Y軸   移動   NUMBERFLAG   
+將   Z軸   移動   NUMBERFLAG   
+X軸   往前   移動   NUMBERFLAG   
+Y軸   往前   移動   NUMBERFLAG   
+Z軸   往前   移動   NUMBERFLAG   
+X軸   往後 移動   NUMBERFLAG   
+Y軸   往後 移動   NUMBERFLAG   
+Z軸   往後 移動   NUMBERFLAG   
+請   主軸   回歸   到   原點   
+主軸   回歸   到   原點   
+回到   機械   原點   
+主軸   回到   機械   原點   
+請   主軸   回歸   到   初始 點   
+主軸   回歸   到   初始 點   
+請   機械手臂   往正   X軸   移動   NUMBERFLAG   毫米   
+請   機械手臂   往負   X軸   移動   NUMBERFLAG   毫米   
+請   機械手臂   往正   Y軸   移動   NUMBERFLAG   毫米   
+請   機械手臂   往負   Y軸   移動   NUMBERFLAG   毫米   
+請   機械手臂   往正   Z軸   移動   NUMBERFLAG   毫米   
+請   機械手臂   往負   Z軸   移動   NUMBERFLAG   毫米   
+機械手臂   往正   X軸   移動   NUMBERFLAG   毫米   
+機械手臂   往負   X軸   移動   NUMBERFLAG   毫米   
+機械手臂   往正   Y軸   移動   NUMBERFLAG   毫米   
+機械手臂   往負   Y軸   移動   NUMBERFLAG   毫米   
+機械手臂   往正   Z軸   移動   NUMBERFLAG   毫米   
+機械手臂   往負   Z軸   移動   NUMBERFLAG   毫米   
+往正   X軸   移動   NUMBERFLAG   毫米   
+往負   X軸   移動   NUMBERFLAG   毫米   
+往正   Y軸   移動   NUMBERFLAG   毫米   
+往負   Y軸   移動   NUMBERFLAG   毫米   
+往正   Z軸   移動   NUMBERFLAG   毫米   
+往負   Z軸   移動   NUMBERFLAG   毫米   
+請   回復   到   上一個   指令   位置   
+回復   到   上一個   指令   位置   
+請   返回   到   上一個   指令   位置   
+返回   到   上一個   指令   位置   
+請   移動   到   指定   的   絕對   位置   
+移動   到   指定   的   絕對   位置   
+請   移動   到   指定   的   相   對   位置   
+移動   到   指定   的   相   對   位置   
+今天   幫 我   做   工件一   共   NUMBERFLAG   件   
+今天   幫 我   做   工件二   共   NUMBERFLAG   件   
+今天   幫 我   做   工件三   共   NUMBERFLAG   件   
+幫 我   做   工件一   共   NUMBERFLAG   件   
+幫 我   做   工件二   共   NUMBERFLAG   件   
+幫 我   做   工件三   共   NUMBERFLAG   件   
+幫 我   做   工件一   NUMBERFLAG   件   
+幫 我   做   工件二   NUMBERFLAG   件   
+幫 我   做   工件三   NUMBERFLAG   件   
+幫 我   加工   工件一   NUMBERFLAG   件   
+幫 我   加工   工件二   NUMBERFLAG   件   
+幫 我   加工   工件三   NUMBERFLAG   件   
+做   工件一   共   NUMBERFLAG   件   
+做   工件二   共   NUMBERFLAG   件   
+做   工件三   共   NUMBERFLAG   件   
+做   工件一   共   NUMBERFLAG   件   
+做   工件一   共   NUMBERFLAG   件   
+做   工件一   共   NUMBERFLAG   件   
+加工   工件一   NUMBERFLAG   件   
+加工   工件二   NUMBERFLAG   件   
+加工   工件三   NUMBERFLAG   件   
+工件一   今天   加工   NUMBERFLAG   件   
+工件二   今天   加工   NUMBERFLAG   件   
+工件三   今天   加工   NUMBERFLAG   件   
+工件一   今天   做   NUMBERFLAG   件   
+工件二   今天   做   NUMBERFLAG   件   
+工件三   今天   做   NUMBERFLAG   件   
+今天   幫 我   做   工件一   共   NUMBERFLAG   項   
+今天   幫 我   做   工件二   共   NUMBERFLAG   項   
+今天   幫 我   做   工件三   共   NUMBERFLAG   項   
+幫 我   做   工件一   共   NUMBERFLAG   項   
+幫 我   做   工件二   共   NUMBERFLAG   項   
+幫 我   做   工件三   共   NUMBERFLAG   項   
+幫 我   做   工件一   NUMBERFLAG   項   
+幫 我   做   工件二   NUMBERFLAG   項   
+幫 我   做   工件三   NUMBERFLAG   項   
+幫 我   加工   工件一   NUMBERFLAG   項   
+幫 我   加工   工件二   NUMBERFLAG   項   
+幫 我   加工   工件三   NUMBERFLAG   項   
+做   工件一   共   NUMBERFLAG   項   
+做   工件二   共   NUMBERFLAG   項   
+做   工件三   共   NUMBERFLAG   項   
+做   工件一   共   NUMBERFLAG   項   
+做   工件一   共   NUMBERFLAG   項   
+做   工件一   共   NUMBERFLAG   項   
+加工   工件一   NUMBERFLAG   項   
+加工   工件二   NUMBERFLAG   項   
+加工   工件三   NUMBERFLAG   項   
+工件一   今天   加工   NUMBERFLAG   項   
+工件二   今天   加工   NUMBERFLAG   項   
+工件三   今天   加工   NUMBERFLAG   項   
+工件一   今天   做   NUMBERFLAG   項   
+工件二   今天   做   NUMBERFLAG   項   
+工件三   今天   做   NUMBERFLAG   項   
+今天   幫 我   做   工件一   共   NUMBERFLAG   次   
+今天   幫 我   做   工件二   共   NUMBERFLAG   次   
+今天   幫 我   做   工件三   共   NUMBERFLAG   次   
+今天   幫 我   做   工件一   NUMBERFLAG   次   
+今天   幫 我   做   工件二   NUMBERFLAG   次   
+今天   幫 我   做   工件三   NUMBERFLAG   次   
+幫 我   做   工件一   共   NUMBERFLAG   次   
+幫 我   做   工件二   共   NUMBERFLAG   次   
+幫 我   做   工件三   共   NUMBERFLAG   次   
+幫 我   做   工件一   NUMBERFLAG   次   
+幫 我   做   工件二   NUMBERFLAG   次   
+幫 我   做   工件三   NUMBERFLAG   次   
+幫 我   加工   工件一   NUMBERFLAG   次   
+幫 我   加工   工件二   NUMBERFLAG   次   
+幫 我   加工   工件三   NUMBERFLAG   次   
+做   工件一   共   NUMBERFLAG   次   
+做   工件二   共   NUMBERFLAG   次   
+做   工件三   共   NUMBERFLAG   次   
+加工   工件一   NUMBERFLAG   次   
+加工   工件二   NUMBERFLAG   次   
+加工   工件三   NUMBERFLAG   次   
+工件一   今天   加工   NUMBERFLAG   次   
+工件二   今天   加工   NUMBERFLAG   次   
+工件三   今天   加工   NUMBERFLAG   次   
+工件一   今天   做   NUMBERFLAG   次   
+工件二   今天   做   NUMBERFLAG   次   
+工件三   今天   做   NUMBERFLAG   次   
+今天   幫 我   做   工件一   共   NUMBERFLAG   個   
+今天   幫 我   做   工件二   共   NUMBERFLAG   個   
+今天   幫 我   做   工件三   共   NUMBERFLAG   個   
+今天   幫 我   做   工件一   NUMBERFLAG   個   
+今天   幫 我   做   工件二   NUMBERFLAG   個   
+今天   幫 我   做   工件三   NUMBERFLAG   個   
+幫 我   做   工件一   共   NUMBERFLAG   個   
+幫 我   做   工件二   共   NUMBERFLAG   個   
+幫 我   做   工件三   共   NUMBERFLAG   個   
+幫 我   做   工件一   NUMBERFLAG   個   
+幫 我   做   工件二   NUMBERFLAG   個   
+幫 我   做   工件三   NUMBERFLAG   個   
+幫 我   加工   工件一   NUMBERFLAG   個   
+幫 我   加工   工件二   NUMBERFLAG   個   
+幫 我   加工   工件三   NUMBERFLAG   個   
+做   工件一   共   NUMBERFLAG   個   
+做   工件二   共   NUMBERFLAG   個   
+做   工件三   共   NUMBERFLAG   個   
+做   工件一   共   NUMBERFLAG   個   
+做   工件一   共   NUMBERFLAG   個   
+做   工件一   共   NUMBERFLAG   個   
+加工   工件一   NUMBERFLAG   個   
+加工   工件二   NUMBERFLAG   個   
+加工   工件三   NUMBERFLAG   個   
+工件一   今天   加工   NUMBERFLAG   個   
+工件二   今天   加工   NUMBERFLAG   個   
+工件三   今天   加工   NUMBERFLAG   個   
+工件一   今天   做   NUMBERFLAG   個   
+工件二   今天   做   NUMBERFLAG   個   
+工件三   今天   做   NUMBERFLAG   個   
+做   工件一   共   NUMBERFLAG   個   
+做   工件二   共   NUMBERFLAG   個   
+做   工件三   共   NUMBERFLAG   個   
+請   順時針   將   主軸   轉速   調到   NUMBERFLAG   轉   
+順時針   將   主軸   轉速   調到   NUMBERFLAG   轉   
+主軸   順時針   轉速   調到   NUMBERFLAG   轉   
+請   順時針   將   主軸   轉速 切   換到   NUMBERFLAG   轉   
+順時針   將   主軸   轉速 切   換到   NUMBERFLAG   轉   
+主軸   順時針   轉速 切   換到   NUMBERFLAG   轉   
+請   逆時針   將   主軸   轉速   調到   NUMBERFLAG   轉   
+逆時針   將   主軸   轉速   調到   NUMBERFLAG   轉   
+主軸   逆時針   轉速   調到   NUMBERFLAG   轉   
+請   逆時針   將   主軸   轉速 切   換到   NUMBERFLAG   轉   
+逆時針   將   主軸   轉速 切   換到   NUMBERFLAG   轉   
+主軸   逆時針   轉速 切   換到   NUMBERFLAG   轉   
+請   主軸   停止   旋轉   
+主軸   立刻   停止   旋轉   
+主軸   停止   旋轉   
+主軸   切換   到   空檔   
+主軸   切換   到   低速   檔   
+主軸   切換   到   高速   檔   
+將   機械手臂   移動速度   調整   到   等級   NUMBERFLAG   
+機械手臂   移動速度   調整   到   等級   NUMBERFLAG   
+移動速度   調整   到   等級   NUMBERFLAG   
+將   機械手臂   移動速度   切換   到   等級   NUMBERFLAG   
+機械手臂   移動速度   切換   到   等級   NUMBERFLAG   
+移動速度   切換   到   等級   NUMBERFLAG   
+請   機械手臂   順時針   繞   X軸   旋轉   NUMBERFLAG   度   
+請   機械手臂   逆時針   繞   X軸   旋轉   NUMBERFLAG   度   
+請   機械手臂   順時針   繞   Y軸   旋轉   NUMBERFLAG   度   
+請   機械手臂   逆時針   繞   Y軸   旋轉   NUMBERFLAG   度   
+請   機械手臂   順時針   繞   Z軸   旋轉   NUMBERFLAG   度   
+請   機械手臂   逆時針   繞   Z軸   旋轉   NUMBERFLAG   度   
+機械手臂   順時針   繞   X軸   旋轉   NUMBERFLAG   度   
+機械手臂   逆時針   繞   X軸   旋轉   NUMBERFLAG   度   
+機械手臂   順時針   繞   Y軸   旋轉   NUMBERFLAG   度   
+機械手臂   逆時針   繞   Y軸   旋轉   NUMBERFLAG   度   
+機械手臂   順時針   繞   Z軸   旋轉   NUMBERFLAG   度   
+機械手臂   逆時針   繞   Z軸   旋轉   NUMBERFLAG   度   
+順時針   繞   X軸   旋轉   NUMBERFLAG   度   
+逆時針   繞   X軸   旋轉   NUMBERFLAG   度   
+順時針   繞   Y軸   旋轉   NUMBERFLAG   度   
+逆時針   繞   Y軸   旋轉   NUMBERFLAG   度   
+順時針   繞   Z軸   旋轉   NUMBERFLAG   度   
+逆時針   繞   Z軸   旋轉   NUMBERFLAG   度   
+請   單一 執行   目前   指定   的   程序   任務   
+單一 執行   目前   指定   的   程序   任務   
+請   執行   目前   指定   程序   任務   的   單一 循環   
+執行   目前   指定   程序   任務   的   單一 循環   
+請   反覆 執行   目前   程序   任務   
+反覆 執行   目前   程序   任務   
+請   停止   執行   目前   程序   任務   
+停止   執行   目前   程序   任務   
+請   暫停   執行   目前   程序   任務   
+暫停   執行   目前   程序   任務   
+請   終止   執行   目前   程序   任務   
+終止   執行   目前   程序   任務   
+請   繼續   執行   目前   程序   任務   
+繼續   執行   目前   程序   任務   
+請   取消   目前   程序   任務   
+取消   目前   程序   任務   
+請將   所有   動作   緊急   停止   
+將   所有   動作   緊急   停止   
+請將   所有   動作   停止   
+將   所有   動作   停止   
+請   立刻   將   所有   動作   緊急   停止   
+立刻   將   所有   動作   緊急   停止   
+請   立刻   將   所有   動作   停止   
+立刻   將   所有   動作   停止   
+所有   動作   立刻   緊急   停止   
+所有   動作   立刻   停止   
+加工   動作   全部   暫時   停止   
+將   加工   動作   全部   暫時   停止   
+請將   加工   動作   全部   暫時   停止   
+請將   加工   動作   全部   停止   
+將   加工   動作   全部   停止   
+加工   動作   全部   停止   
+請將   加工   動作   全部   緊急   停止   
+將   加工   動作   全部   緊急   停止   
+加工   動作   全部   緊急   停止   
+請   立刻   停止   全部   加工   動作   
+立刻   停止   全部   加工   動作   
+請   暫時   停止   全部   加工   動作   
+暫時   停止   全部   加工   動作   
+請   解除   所有   動作   緊急   停止   
+解除   所有   動作   緊急   停止   
+解除   所有   動作   停止   
+立刻   解除   所有   動作   緊急   停止   
+立刻   解除   所有   動作   停止   
+解除   目前   所有   動作   緊急   停止   
+請   繼續   執行   所有   停止   動作   
+繼續   執行   所有   停止   動作   
+立刻   繼續   執行   所有   停止   動作   
+立刻   繼續   執行   停止   動作   
+立刻   執行   所有   停止   動作   
+立刻   執行   停止   動作   
+請將   系統   重置   

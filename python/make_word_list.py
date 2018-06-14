@@ -22,10 +22,5 @@ for l in f:
         word_set.add(s)
     view.write('\n')
 
-i = 3
-o.write("INKNOWFLAG 0\n")
-o.write("EOSFLAG 1\n")
-o.write("PADFLAG 2\n")
 for s in word_set:
-    o.write(s + " " + str(i) + '\n')
-    i += 1
+    o.write(s + '\n')

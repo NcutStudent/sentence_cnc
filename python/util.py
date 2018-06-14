@@ -4,6 +4,10 @@ import re
 
 jieba.load_userdict("data/user_direct.txt")
 
+class Constance:
+    EMPTY_WORD_ID   = 0
+    EOS_WORD_ID     = 1
+    PAD_WORD_ID     = 2
 
 def get_vocab_data(filename, encoding='utf-8'):
     f = open(filename, encoding=encoding)

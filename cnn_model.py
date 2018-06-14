@@ -69,7 +69,7 @@ sess = tf.Session()
 
 sess.run(init)
 
-def train_model(iter_size=1000, batch_size=1, show_step=10, test_step=100):
+def train_model(iter_size=1000, batch_size=50, show_step=10, test_step=100):
     for i in range(iter_size):
         train_data, label_data = helper.get_data(batch_size, pad_sequence_length=seq_length)
         out = sess.run([global_loss, acc_rate, adverb_rate, object_rate, number_rate, increment_global_step, opt], { input_x : train_data, input_y: label_data, dropout_prob : 0.5})

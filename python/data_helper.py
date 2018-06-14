@@ -10,29 +10,19 @@ class Data_Helper:
         count = 0
         str_len = 0
 
-        empty_word = dictionary_file.readline()
-        if empty_word == '':
-            print("this is a empty file")
+        self.empty_word_id = 0
+        self.eos_word_id   = 1
+        self.pad_word_id   = 2
 
-        data = empty_word.split(' ')
-        if len(data) != 2:
-            raise ValueError('this may not a dictionary file')
-        self.dictionary[data[0]] = int(data[1])
-
-        self.empty_word    = data[0]
-        self.empty_word_id = int(data[1])
-            
+        i = 3
         for word in dictionary_file:
             print('\b' * str_len, end='')
 
-            data = word.split(' ')
-            if len(data) != 2:
-                raise ValueError('this may not a dictionary file')
-
-            self.dictionary[data[0]] = int(data[1])
+            self.dictionary[word[:-1]] = i
             count += 1
             print(count, end='')
             str_len = len(str(count))
+            i += 1
         print('\nwork finish')       
         
     def get_data(self, batch_size=10, pad_sequence_length=None):
@@ -73,9 +63,11 @@ class Data_Helper:
                     _label_word_list.append(int(label))
                 except ValueError:
                     raise ValueError("label file format error, number only")
+            
+            _train_word_list.append(self.eos_word_id)
 
             if (not pad_sequence_length == None) and pad_sequence_length - len(_train_word_list) > 0:
-                _train_word_list += ([self.empty_word_id] * (pad_sequence_length - len(_train_word_list)))
+                _train_word_list += ([self.pad_word_id] * (pad_sequence_length - len(_train_word_list)))
 
             train_data_list.append(_train_word_list)
             label_data_list.append(_label_word_list)
@@ -83,7 +75,7 @@ class Data_Helper:
         return train_data_list, label_data_list
 
     def get_vocab_size(self):
-        return len(self.dictionary)
+        return len(self.dictionary) + 3
 
     def string_to_input_data(self, input_string_list, pad_sequence_length=None):
         processed_list = []
@@ -99,9 +91,11 @@ class Data_Helper:
                     word_list.append(self.dictionary[word])
                 source_word_list.append(word)
 
+            word_list.append(self.eos_word_id)
+
             source_list.append(source_word_list)
             if not pad_sequence_length == None and pad_sequence_length - len(word_list) > 0:
-                word_list += [self.empty_word_id] * (pad_sequence_length - len(word_list))
+                word_list += [self.pad_word_id] * (pad_sequence_length - len(word_list))
 
             processed_list.append(word_list)
         return source_list, processed_list
